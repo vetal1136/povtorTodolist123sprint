@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/povtorTodolist123sprint/static/css/main.bc698887.css",
+    "main.js": "/povtorTodolist123sprint/static/js/main.06e842a6.js",
+    "index.html": "/povtorTodolist123sprint/index.html",
+    "main.bc698887.css.map": "/povtorTodolist123sprint/static/css/main.bc698887.css.map",
+    "main.06e842a6.js.map": "/povtorTodolist123sprint/static/js/main.06e842a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc698887.css",
+    "static/js/main.06e842a6.js"
+  ]
+}
