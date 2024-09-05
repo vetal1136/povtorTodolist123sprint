@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/povtorTodolist123sprint/static/css/main.bc698887.css",
-    "main.js": "/povtorTodolist123sprint/static/js/main.06e842a6.js",
+    "main.css": "/povtorTodolist123sprint/static/css/main.f872738d.css",
+    "main.js": "/povtorTodolist123sprint/static/js/main.7885a8b0.js",
     "index.html": "/povtorTodolist123sprint/index.html",
-    "main.bc698887.css.map": "/povtorTodolist123sprint/static/css/main.bc698887.css.map",
-    "main.06e842a6.js.map": "/povtorTodolist123sprint/static/js/main.06e842a6.js.map"
+    "main.f872738d.css.map": "/povtorTodolist123sprint/static/css/main.f872738d.css.map",
+    "main.7885a8b0.js.map": "/povtorTodolist123sprint/static/js/main.7885a8b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc698887.css",
-    "static/js/main.06e842a6.js"
+    "static/css/main.f872738d.css",
+    "static/js/main.7885a8b0.js"
   ]
 }
