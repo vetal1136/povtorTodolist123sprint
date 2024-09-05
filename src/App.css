@@ -14,3 +14,8 @@
   background-color: #dab5ee;
   padding: 15px;
 }
+
+.todolist-title-container {
+  display: flex;
+  align-items: center;
+}
